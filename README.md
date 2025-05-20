@@ -1,3 +1,3 @@
 # SmartJawab
 
-Early version with Chat + Editor + Bilingual prompts
+Clean structure version for Next.js + Monaco + GPT-4o
