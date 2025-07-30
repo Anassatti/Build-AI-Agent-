@@ -122,3 +122,8 @@ Memory: ChromaDB or Supabase
 Interface: Next.js chat UI or WhatsApp via Twilio
 
 Automation: n8n for workflow orchestration
+
+**Digram**
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc6310f8-276f-4a6e-bce6-bc4697d15b2b" />
+
+
